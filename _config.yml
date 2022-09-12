@@ -1,4 +1,7 @@
-theme: jekyll-theme-cayman
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: vszhub/not-pure-poole
 
 title: "Aude E. Caizergues"
 description: "Urban evolutionary biologist"
